@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=kdhingra307&color=FAC151)][1]
+
 <!--
 **kdhingra307/kdhingra307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
