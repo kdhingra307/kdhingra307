@@ -1,0 +1,4 @@
+FROM ruby:3.1.2-alpine3.16
+
+RUN gem install bundler jekyll
+
