@@ -1,1 +1,0 @@
-Sitemap: https://simply-jekyll.netlify.app//sitemap.xml

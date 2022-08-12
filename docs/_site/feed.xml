@@ -3,10 +3,10 @@
     <channel>
       <title></title>
       <description></description>
-      <link>https://simply-jekyll.netlify.app///</link>
-    <atom:link href="https://simply-jekyll.netlify.app///feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Thu, 11 Aug 2022 17:13:50 -0500</pubDate>
-      <lastBuildDate>Thu, 11 Aug 2022 17:13:50 -0500</lastBuildDate>
+      <link>https://itskd.github.io//</link>
+    <atom:link href="https://itskd.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+      <pubDate>Fri, 12 Aug 2022 09:31:39 -0500</pubDate>
+      <lastBuildDate>Fri, 12 Aug 2022 09:31:39 -0500</lastBuildDate>
       <generator>Jekyll v4.0.1</generator>
       <item>
         <title>SOP Key points, and Drafts</title>
@@ -29,8 +29,8 @@
           &lt;p&gt;%%&lt;/p&gt;
         </description>
         <pubDate>Wed, 10 Aug 2022 00:00:00 -0500</pubDate>
-        <link>https://simply-jekyll.netlify.app///thoughts/SOP</link>
-      <guid isPermaLink="true">https://simply-jekyll.netlify.app///thoughts/SOP</guid>
+        <link>https://itskd.github.io//thoughts/SOP</link>
+      <guid isPermaLink="true">https://itskd.github.io//thoughts/SOP</guid>
     </item>
     <item>
       <title>Points to study</title>
@@ -49,8 +49,8 @@
         &lt;/ul&gt;
       </description>
       <pubDate>Sun, 09 Jan 2022 00:00:00 -0600</pubDate>
-      <link>https://simply-jekyll.netlify.app///notes/basics_of_probability</link>
-    <guid isPermaLink="true">https://simply-jekyll.netlify.app///notes/basics_of_probability</guid>
+      <link>https://itskd.github.io//notes/basics_of_probability</link>
+    <guid isPermaLink="true">https://itskd.github.io//notes/basics_of_probability</guid>
   </item>
   <item>
     <title>Basics of Probability</title>
@@ -370,48 +370,48 @@
       &lt;/ul&gt;
     </description>
     <pubDate>Sun, 09 Jan 2022 00:00:00 -0600</pubDate>
-    <link>https://simply-jekyll.netlify.app///notes/basics_of_probability</link>
-  <guid isPermaLink="true">https://simply-jekyll.netlify.app///notes/basics_of_probability</guid>
+    <link>https://itskd.github.io//notes/basics_of_probability</link>
+  <guid isPermaLink="true">https://itskd.github.io//notes/basics_of_probability</guid>
 </item>
 <item>
   <title>Phylogeny of tumor Cells</title>
   <description>&lt;p&gt;Phylogeny is the study of organisms, but it has gained quite an attraction in cancer study because of tumor cells being heterogeneous, which implies that the morphological behavior of two cells differs, but their genetic structure changes.&lt;/p&gt;
   </description>
   <pubDate>Thu, 25 Mar 2021 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///project/CSE690</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///project/CSE690</guid>
+  <link>https://itskd.github.io//project/CSE690</link>
+<guid isPermaLink="true">https://itskd.github.io//project/CSE690</guid>
 </item>
 <item>
   <title>Deep Learning</title>
   <description>&lt;p&gt;In this work, we investigate the problem of colorization of grayscale images. This problem is ill-defined and underconstrained which is why earlier works in this domain have relied on heavy user interaction. We first explored Deep Colorization, which uses multi- scale features and deep neural networks for colorization.&lt;/p&gt;
   </description>
   <pubDate>Thu, 25 Mar 2021 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///project/CSE641</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///project/CSE641</guid>
+  <link>https://itskd.github.io//project/CSE641</link>
+<guid isPermaLink="true">https://itskd.github.io//project/CSE641</guid>
 </item>
 <item>
   <title>Introduction to Quantum Computing</title>
   <description>&lt;p&gt;The problem of decomposing a N ×N unitary into a quantum circuit was inspired from Task- 4 of IBM Quantum Challenge, 2020. In that challenge, we were asked to design a quantum circuit for a predefined unitary matrix, such that it requires a minimum number of gates. One of the approaches with which this problem can be tackled is to use a machine learning algorithm, in which parameters of U3 gates are learned using gradient descent algorithm with the norm between U and circuit used as the cost function. In this project, at first analytical methods to compute the gradients were used, which worked well for classification related tasks but could not hold up to unitary estimation. After that, numerical gradient estimation techniques were used to solve the problem.&lt;/p&gt;
   </description>
   <pubDate>Thu, 25 Mar 2021 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///project/CSE622</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///project/CSE622</guid>
+  <link>https://itskd.github.io//project/CSE622</link>
+<guid isPermaLink="true">https://itskd.github.io//project/CSE622</guid>
 </item>
 <item>
   <title>Natural Language Processing</title>
   <description>&lt;p&gt;Concept of context Understanding in Natural Language Processing (NLP) has led to paradigm shift from word embedding based models to inculcation of semantics and context based features.It has great applications when it comes to machine language generation,dialog mod- eling ,etc for improving the quality and relevance.&lt;/p&gt;
   </description>
   <pubDate>Thu, 25 Mar 2021 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///project/CSE556</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///project/CSE556</guid>
+  <link>https://itskd.github.io//project/CSE556</link>
+<guid isPermaLink="true">https://itskd.github.io//project/CSE556</guid>
 </item>
 <item>
   <title>Advance Computer Vision</title>
   <description>&lt;p&gt;This project extends the barebone conditional autoregressive network towards faster training, evalua- tion, and learning to color from thermal input instead of grayscale.&lt;/p&gt;
   </description>
   <pubDate>Thu, 25 Mar 2021 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///project/CSE544</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///project/CSE544</guid>
+  <link>https://itskd.github.io//project/CSE544</link>
+<guid isPermaLink="true">https://itskd.github.io//project/CSE544</guid>
 </item>
 <item>
   <title>Colorization - Sampling Color from GrayScale and I.R. Images</title>
@@ -542,8 +542,8 @@
     &lt;/ul&gt;
   </description>
   <pubDate>Thu, 14 Jan 2021 00:00:00 -0600</pubDate>
-  <link>https://simply-jekyll.netlify.app///notes/study-of-colorization</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///notes/study-of-colorization</guid>
+  <link>https://itskd.github.io//notes/study-of-colorization</link>
+<guid isPermaLink="true">https://itskd.github.io//notes/study-of-colorization</guid>
 </item>
 <item>
   <title>How does tree metrics works</title>
@@ -760,8 +760,8 @@
     &lt;p&gt;Thus, final distance is calculated between these two vectors (eucleadian in this example), 4.89.&lt;/p&gt;
   </description>
   <pubDate>Mon, 17 Aug 2020 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///notes/tree_metrics_in_detail</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///notes/tree_metrics_in_detail</guid>
+  <link>https://itskd.github.io//notes/tree_metrics_in_detail</link>
+<guid isPermaLink="true">https://itskd.github.io//notes/tree_metrics_in_detail</guid>
 </item>
 <item>
   <title>Basics of Phylogeny</title>
@@ -957,8 +957,8 @@
     &lt;/ul&gt;
   </description>
   <pubDate>Thu, 13 Aug 2020 00:00:00 -0500</pubDate>
-  <link>https://simply-jekyll.netlify.app///notes/basics_of_clonal_evolution</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///notes/basics_of_clonal_evolution</guid>
+  <link>https://itskd.github.io//notes/basics_of_clonal_evolution</link>
+<guid isPermaLink="true">https://itskd.github.io//notes/basics_of_clonal_evolution</guid>
 </item>
 <item>
   <title>Introduction to Explainable AI</title>
@@ -975,8 +975,8 @@
     &lt;/ul&gt;
   </description>
   <pubDate>Mon, 13 Jan 2020 00:00:00 -0600</pubDate>
-  <link>https://simply-jekyll.netlify.app///notes/xAI/intro</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///notes/xAI/intro</guid>
+  <link>https://itskd.github.io//notes/xAI/intro</link>
+<guid isPermaLink="true">https://itskd.github.io//notes/xAI/intro</guid>
 </item>
 <item>
   <title>SOP Key points, and Drafts</title>
@@ -1059,8 +1059,8 @@
     &lt;/ul&gt;
   </description>
   <pubDate>Fri, 10 Jan 2020 00:00:00 -0600</pubDate>
-  <link>https://simply-jekyll.netlify.app///thoughts/SOP</link>
-<guid isPermaLink="true">https://simply-jekyll.netlify.app///thoughts/SOP</guid>
+  <link>https://itskd.github.io//thoughts/SOP</link>
+<guid isPermaLink="true">https://itskd.github.io//thoughts/SOP</guid>
 </item>
 </channel>
 </rss>
